@@ -1,10 +1,10 @@
 Getting started
 
-#Install JSON Server
+# Install JSON Server
 
 npm install -g json-server
 
-#Create a db.json file with some data
+# Create a db.json file with some data
 
 {
   "posts": [
@@ -16,6 +16,6 @@ npm install -g json-server
   "profile": { "name": "typicode" }
 }
 
-#Start JSON Server
+# Start JSON Server
 
 json-server --watch db.json
