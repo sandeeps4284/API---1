@@ -1,0 +1,14 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "To Create Fake REST API",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-sever --watch db.json"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
