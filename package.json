@@ -4,7 +4,7 @@
   "description": "To Create Fake REST API",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-sever --watch db.json"
+    "json:server":"json-server --watch db.json"
   },
   "author": "sandeep",
   "license": "ISC",
